@@ -1,0 +1,7 @@
+# BIOS images are published as release assets, not committed
+*.bin
+*.660
+*.650
+*.850
+release/
+__pycache__/
